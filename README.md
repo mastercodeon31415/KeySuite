@@ -61,9 +61,7 @@ Key Suite features a sleek, **Dark Mode** interface designed for modern setups.
 
 > <img width="1204" height="692" alt="image" src="https://github.com/user-attachments/assets/7f573807-25e8-467c-8778-fa81ded93fe0" />
 
-
-> *[Insert Screenshot of In-Game Overlay Notification Here]*
-
+> <img width="628" height="377" alt="image" src="https://github.com/user-attachments/assets/f0bbef03-0e10-4289-b017-90ee8c5a1816" />w
 ---
 
 ## ⚙️ Technical Specifications
