@@ -59,7 +59,7 @@ Key Suite features a sleek, **Dark Mode** interface designed for modern setups.
 *   **Rule Editor:** Granular control over milliseconds. Set minimum and maximum delays for hold and release times.
 *   **Visual Feedback:** The app supports "Input Binding Mode" allowing you to set hotkeys just by pressing them.
 
-> <img width="1204" height="692" alt="image" src="https://github.com/user-attachments/assets/7f573807-25e8-467c-8778-fa81ded93fe0" />
+> <img width="1183" height="692" alt="image" src="https://github.com/user-attachments/assets/681759ce-f058-4286-9298-e85b88adb842" />
 
 > <img width="628" height="377" alt="image" src="https://github.com/user-attachments/assets/f0bbef03-0e10-4289-b017-90ee8c5a1816" />w
 ---
