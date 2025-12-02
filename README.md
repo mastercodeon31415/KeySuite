@@ -59,7 +59,8 @@ Key Suite features a sleek, **Dark Mode** interface designed for modern setups.
 *   **Rule Editor:** Granular control over milliseconds. Set minimum and maximum delays for hold and release times.
 *   **Visual Feedback:** The app supports "Input Binding Mode" allowing you to set hotkeys just by pressing them.
 
-> *[Insert Screenshot of Main Dashboard Here]*
+> <img width="1204" height="692" alt="image" src="https://github.com/user-attachments/assets/7f573807-25e8-467c-8778-fa81ded93fe0" />
+
 
 > *[Insert Screenshot of In-Game Overlay Notification Here]*
 
